@@ -5,7 +5,7 @@ const encodedPassword = encodeURIComponent(process.env.DB_PASSWORD);
 const { DB_USER, DB_HOST, DB_DATABASE } = process.env;
 
 const sequelize = new Sequelize(
-  `postgres://postgres:berserk1998@localhost:5432/ecommerce`,
+  `postgres://eltwcqez_postgres:${encodedPassword}@${DB_HOST}:5432/${DB_DATABASE}`,
   {
     host: DB_HOST,
     dialect: "postgres",

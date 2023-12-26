@@ -3,9 +3,9 @@ const express = require("express");
 const app = express();
 const morgan = require("morgan");
 const cors = require("cors");
-// const sequelize = require("./src/config/db.js");
+const sequelize = require("./src/config/db.js");
 
-// const PORT = process.env.PORT || 8080;
+const PORT = process.env.PORT || 8080;
 // const path = require("path");
 // Importo las asociaciones
 // require("./src/models/associations.js");
@@ -25,7 +25,7 @@ app.use(express.urlencoded({ extended: true }));
 // Serve static files from the 'img' directory
 // app.use("/public", express.static(path.join(__dirname, "public")));
 app.get("/prueba", (req, res) => {
-  res.status(200).json({ message: "todook1" });
+  res.status(200).json({ message: "todook222" });
 });
 //ROUTES
 
