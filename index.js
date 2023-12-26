@@ -3,7 +3,7 @@ const express = require("express");
 const app = express();
 const morgan = require("morgan");
 const cors = require("cors");
-// const sequelize = require("./src/config/db.js");
+const sequelize = require("./src/config/db.js");
 
 // const PORT = process.env.PORT || 8080;
 // const path = require("path");
