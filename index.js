@@ -3,7 +3,7 @@ const express = require("express");
 const app = express();
 const morgan = require("morgan");
 const cors = require("cors");
-const sequelize = require("./src/config/db.js");
+// const sequelize = require("./src/config/db.js");
 
 // const PORT = process.env.PORT || 8080;
 // const path = require("path");
@@ -22,7 +22,7 @@ app.use(express.urlencoded({ extended: true }));
 //   require("dotenv");
 // }
 // Serve static files from the 'img' directory
-app.use("/public", express.static(path.join(__dirname, "public")));
+// app.use("/public", express.static(path.join(__dirname, "public")));
 app.get("/prueba", (req, res) => {
   res.status(200).json({ message: "todook" });
 });
@@ -46,4 +46,4 @@ app.get("/prueba", (req, res) => {
 //   app.listen(PORT, () => console.log("Listening on port ", PORT));
 // })();
 
-app.listen(PORT, () => console.log("Listening on port ", PORT));
+app.listen(8080, () => console.log("Listening on port ", 8080));
