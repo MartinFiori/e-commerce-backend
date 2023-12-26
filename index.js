@@ -24,7 +24,7 @@ app.use(express.urlencoded({ extended: true }));
 // Serve static files from the 'img' directory
 // app.use("/public", express.static(path.join(__dirname, "public")));
 app.get("/prueba", (req, res) => {
-  res.status(200).json({ message: "todook" });
+  res.status(200).json({ message: "todook1" });
 });
 //ROUTES
 
