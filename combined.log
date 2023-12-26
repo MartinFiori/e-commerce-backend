@@ -1,0 +1,84 @@
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"code":"ENOENT","errno":-4058,"level":"error","path":"C:\\Users\\Martin Fiori\\Desktop\\api\\src\\services\\allProducts.js","service":"user-service","syscall":"open"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","service":"user-service"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","service":"user-service"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","service":"user-service"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","service":"user-service"}
+{"code":"ENOENT","errno":-4058,"level":"error","path":"C:\\Users\\Martin Fiori\\Desktop\\api\\src\\services\\allProducts.js","service":"user-service","syscall":"open"}
+{"code":"ENOENT","errno":-4058,"level":"error","path":"C:\\Users\\Martin Fiori\\Desktop\\api\\src\\services\\allProducts.js","service":"user-service","syscall":"open"}
+{"code":"ENOENT","errno":-4058,"level":"error","path":"C:\\Users\\Martin Fiori\\Desktop\\api\\src\\services\\allProducts.js","service":"user-service","syscall":"open"}
+{"code":"ENOENT","errno":-4058,"level":"error","path":"C:\\Users\\Martin Fiori\\Desktop\\api\\src\\services\\allProducts.js","service":"user-service","syscall":"open"}
+{"code":"ENOENT","errno":-4058,"level":"error","path":"C:\\Users\\Martin Fiori\\Desktop\\api\\src\\services\\allProducts.js","service":"user-service","syscall":"open"}
+{"code":"ENOENT","errno":-4058,"level":"error","path":"C:\\Users\\Martin Fiori\\Desktop\\api\\src\\services\\allProducts.js","service":"user-service","syscall":"open"}
+{"level":"error","name":"SequelizeDatabaseError","original":{"code":"22P02","file":"bool.c","length":120,"line":"154","name":"error","position":"179","routine":"boolin","severity":"ERROR","sql":"SELECT \"id_Product\", \"categoryId\", \"sku\", \"name\", \"description\", \"price\", \"stock\", \"thumbnail\", \"offert\", \"offertPrice\" FROM \"Products\" AS \"Products\" WHERE \"Products\".\"offert\" = 'trueee';"},"parameters":{},"parent":{"code":"22P02","file":"bool.c","length":120,"line":"154","name":"error","position":"179","routine":"boolin","severity":"ERROR","sql":"SELECT \"id_Product\", \"categoryId\", \"sku\", \"name\", \"description\", \"price\", \"stock\", \"thumbnail\", \"offert\", \"offertPrice\" FROM \"Products\" AS \"Products\" WHERE \"Products\".\"offert\" = 'trueee';"},"service":"user-service","sql":"SELECT \"id_Product\", \"categoryId\", \"sku\", \"name\", \"description\", \"price\", \"stock\", \"thumbnail\", \"offert\", \"offertPrice\" FROM \"Products\" AS \"Products\" WHERE \"Products\".\"offert\" = 'trueee';"}
+{"level":"error","name":"SequelizeDatabaseError","original":{"code":"22P02","file":"bool.c","length":120,"line":"154","name":"error","position":"179","routine":"boolin","severity":"ERROR","sql":"SELECT \"id_Product\", \"categoryId\", \"sku\", \"name\", \"description\", \"price\", \"stock\", \"thumbnail\", \"offert\", \"offertPrice\" FROM \"Products\" AS \"Products\" WHERE \"Products\".\"offert\" = 'trueee';"},"parameters":{},"parent":{"code":"22P02","file":"bool.c","length":120,"line":"154","name":"error","position":"179","routine":"boolin","severity":"ERROR","sql":"SELECT \"id_Product\", \"categoryId\", \"sku\", \"name\", \"description\", \"price\", \"stock\", \"thumbnail\", \"offert\", \"offertPrice\" FROM \"Products\" AS \"Products\" WHERE \"Products\".\"offert\" = 'trueee';"},"service":"user-service","sql":"SELECT \"id_Product\", \"categoryId\", \"sku\", \"name\", \"description\", \"price\", \"stock\", \"thumbnail\", \"offert\", \"offertPrice\" FROM \"Products\" AS \"Products\" WHERE \"Products\".\"offert\" = 'trueee';"}
+{"code":"ENOENT","errno":-4058,"level":"error","path":"C:\\Users\\Martin Fiori\\Desktop\\api\\src\\services\\allProducts.js","service":"user-service","syscall":"open"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","service":"user-service"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","service":"user-service"}
+{"code":"ENOENT","errno":-4058,"level":"error","path":"C:\\Users\\Martin Fiori\\Desktop\\api\\src\\services\\allProducts.js","service":"user-service","syscall":"open"}
+{"code":"ENOENT","errno":-4058,"level":"error","path":"C:\\Users\\Martin Fiori\\Desktop\\api\\src\\services\\allProducts.js","service":"user-service","syscall":"open"}
+{"code":"ENOENT","errno":-4058,"level":"error","path":"C:\\Users\\Martin Fiori\\Desktop\\api\\src\\services\\allProducts.js","service":"user-service","syscall":"open"}
+{"code":"ENOENT","errno":-4058,"level":"error","path":"C:\\Users\\Martin Fiori\\Desktop\\api\\src\\services\\allProducts.js","service":"user-service","syscall":"open"}
+{"code":"ENOENT","errno":-4058,"level":"error","path":"C:\\Users\\Martin Fiori\\Desktop\\api\\src\\services\\allProducts.js","service":"user-service","syscall":"open"}
+{"code":"ENOENT","errno":-4058,"level":"error","path":"C:\\Users\\Martin Fiori\\Desktop\\api\\src\\services\\allProducts.js","service":"user-service","syscall":"open"}
+{"code":"ENOENT","errno":-4058,"level":"error","path":"C:\\Users\\Martin Fiori\\Desktop\\api\\src\\services\\allProducts.js","service":"user-service","syscall":"open"}
+{"code":"ENOENT","errno":-4058,"level":"error","path":"C:\\Users\\Martin Fiori\\Desktop\\api\\src\\services\\allProducts.js","service":"user-service","syscall":"open"}
+{"code":"ENOENT","errno":-4058,"level":"error","path":"C:\\Users\\Martin Fiori\\Desktop\\api\\src\\services\\allProducts.js","service":"user-service","syscall":"open"}
+{"code":"ENOENT","errno":-4058,"level":"error","path":"C:\\Users\\Martin Fiori\\Desktop\\api\\src\\services\\allProducts.js","service":"user-service","syscall":"open"}
+{"code":"ENOENT","errno":-4058,"level":"error","path":"C:\\Users\\Martin Fiori\\Desktop\\api\\src\\services\\allProducts.js","service":"user-service","syscall":"open"}
+{"code":"ENOENT","errno":-4058,"level":"error","path":"C:\\Users\\Martin Fiori\\Desktop\\api\\src\\services\\allProducts.js","service":"user-service","syscall":"open"}
+{"code":"ENOENT","errno":-4058,"level":"error","path":"C:\\Users\\Martin Fiori\\Desktop\\api\\src\\services\\allProducts.js","service":"user-service","syscall":"open"}
+{"code":"ENOENT","errno":-4058,"level":"error","path":"C:\\Users\\Martin Fiori\\Desktop\\api\\src\\services\\allProducts.js","service":"user-service","syscall":"open"}
+{"code":"ENOENT","errno":-4058,"level":"error","path":"C:\\Users\\Martin Fiori\\Desktop\\api\\src\\services\\allProducts.js","service":"user-service","syscall":"open"}
+{"code":"ENOENT","errno":-4058,"level":"error","path":"C:\\Users\\Martin Fiori\\Desktop\\api\\src\\services\\allProducts.js","service":"user-service","syscall":"open"}
+{"code":"ENOENT","errno":-4058,"level":"error","path":"C:\\Users\\Martin Fiori\\Desktop\\api\\src\\services\\allProducts.js","service":"user-service","syscall":"open"}
+{"code":"ENOENT","errno":-4058,"level":"error","path":"C:\\Users\\Martin Fiori\\Desktop\\api\\src\\services\\allProducts.js","service":"user-service","syscall":"open"}
+{"level":"error","service":"user-service"}
+{"code":"MODULE_NOT_FOUND","level":"error","requireStack":["C:\\Users\\Martin Fiori\\Desktop\\e-commerce-backend\\src\\controllers\\products_controller.js","C:\\Users\\Martin Fiori\\Desktop\\e-commerce-backend\\src\\app.js"],"service":"user-service"}
+{"code":"ENOENT","errno":-4058,"level":"error","path":"C:\\Users\\Martin Fiori\\Desktop\\api\\src\\services\\allProducts.js","service":"user-service","syscall":"open"}
+{"code":"ENOENT","errno":-4058,"level":"error","path":"C:\\Users\\Martin Fiori\\Desktop\\api\\src\\services\\allProducts.js","service":"user-service","syscall":"open"}
+{"code":"ENOENT","errno":-4058,"level":"error","path":"C:\\Users\\Martin Fiori\\Desktop\\api\\src\\services\\allProducts.js","service":"user-service","syscall":"open"}
+{"code":"ENOENT","errno":-4058,"level":"error","path":"C:\\Users\\Martin Fiori\\Desktop\\services\\allProducts.js","service":"user-service","syscall":"open"}
+{"code":"ENOENT","errno":-4058,"level":"error","path":"C:\\Users\\Martin Fiori\\Desktop\\services\\allProducts.js","service":"user-service","syscall":"open"}
+{"code":"ENOENT","errno":-4058,"level":"error","path":"C:\\Users\\Martin Fiori\\Desktop\\services\\allProducts.js","service":"user-service","syscall":"open"}
+{"code":"ENOENT","errno":-4058,"level":"error","path":"C:\\Users\\Martin Fiori\\Desktop\\services\\allProducts.js","service":"user-service","syscall":"open"}
+{"code":"ENOENT","errno":-4058,"level":"error","path":"C:\\Users\\Martin Fiori\\Desktop\\services\\allProducts.js","service":"user-service","syscall":"open"}
+{"code":"ERR_INVALID_ARG_TYPE","level":"error","service":"user-service"}
+{"code":"ERR_INVALID_ARG_TYPE","level":"error","service":"user-service"}
+{"code":"ERR_INVALID_ARG_TYPE","level":"error","service":"user-service"}
+{"code":"ERR_INVALID_ARG_TYPE","level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
