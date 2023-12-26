@@ -34,10 +34,10 @@ app.get("/prueba", (req, res) => {
 // app.use("/backend", require("./src/routes/payments_routes.js"));
 // app.use("/images", express.static(path.join(__dirname, "/assets/images")));
 
-sequelize
-  .authenticate()
-  .then(() => console.log("DB-CONNECTED"))
-  .catch((err) => console.log(err.message));
+// sequelize
+//   .authenticate()
+//   .then(() => console.log("DB-CONNECTED"))
+//   .catch((err) => console.log(err.message));
 
 // (async function () {
 //   await sequelize.sync({ force: false });
