@@ -39,11 +39,11 @@ sequelize
   .then(() => console.log("DB-CONNECTED"))
   .catch((err) => console.log(err.message));
 
-(async function () {
-  await sequelize.sync({ force: false });
-  console.log("save database");
-  saveDataBase();
-  app.listen(8080, () => console.log("Listening on 8080 ", 8080));
-})();
+// (async function () {
+//   await sequelize.sync({ force: false });
+//   console.log("save database");
+//   saveDataBase();
+//   app.listen(8080, () => console.log("Listening on 8080 ", 8080));
+// })();
 
-app.listen(8080, () => console.log("Listening on port ", 8080));
+// app.listen(8080, () => console.log("Listening on port ", 8080));
